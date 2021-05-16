@@ -4,4 +4,4 @@
 
 - 🔭 I’m currently focusing on swift & iOS
 - 🌱 I’m currently learning SwiftUI
-- 👯 I had working at [Webull](https://www.webull.com)
+- 👯 Was working at a Finance LLC
