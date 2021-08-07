@@ -2,6 +2,5 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently focusing on swift & iOS
-- 🌱 I’m currently learning SwiftUI
-- 👯 Was working at a Finance LLC
+- 🔭 I’m currently focusing on Swift & iOS
+- 🌱 I’m currently learning SwiftUI 3.0 and flutter
