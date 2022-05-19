@@ -3,4 +3,4 @@
 ### Hi there 👋
 
 - 🔭 I’m currently focusing on Swift & iOS
-- 🌱 I’m currently learning SwiftUI 3.0 and flutter
+- 🌱 I’m currently learning Rust
